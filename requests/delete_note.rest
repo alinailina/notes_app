@@ -1,0 +1,2 @@
+@id = 
+DELETE http://localhost:3001/api/notes/{{id}} HTTP/1.1
